@@ -1,0 +1,15 @@
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\bin\Debug\net5.0\LibraryManagement.API.Common.deps.json
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\bin\Debug\net5.0\LibraryManagement.API.Common.runtimeconfig.json
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\bin\Debug\net5.0\LibraryManagement.API.Common.runtimeconfig.dev.json
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\bin\Debug\net5.0\LibraryManagement.API.Common.dll
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\bin\Debug\net5.0\ref\LibraryManagement.API.Common.dll
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\bin\Debug\net5.0\LibraryManagement.API.Common.pdb
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.csproj.AssemblyReference.cache
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.AssemblyInfoInputs.cache
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.AssemblyInfo.cs
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.csproj.CoreCompileInputs.cache
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.dll
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\ref\LibraryManagement.API.Common.dll
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.pdb
+C:\Users\isc\source\repos\LibraryManagement.API\LibraryManagement.API.Common\obj\Debug\net5.0\LibraryManagement.API.Common.genruntimeconfig.cache
